@@ -45,9 +45,9 @@ C for Calculator is a sleek web-based calculator application built with React, d
 
 ## 😂 Jokes Corner
 
-    Why did the mathematician break up with the calculator? Because they couldn't count on each other!
-    How do you make seven an even number? Remove the 's'!
-    Why did the calculator go to therapy? It had too many problems.
+  - Why did the mathematician break up with the calculator? Because they couldn't count on each other!
+  - How do you make seven an even number? Remove the 's'!
+  - Why did the calculator go to therapy? It had too many problems.
 
 ## 🌟 Credits
 
