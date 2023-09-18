@@ -30,7 +30,7 @@ C for Calculator is a sleek web-based calculator application built with React, d
 
 ###Start the development server:
 
-    ```bash
+    bash
     npm start
     
     🌐 Open your web browser and visit http://localhost:3000 to start calculating!
