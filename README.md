@@ -59,6 +59,7 @@ This project is open-source and available under the MIT License.
 
 <details>
   <summary>see Quote</summary>
+![
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
  ░░░░░░░░░░░░░░▄▄▄▄▄▄▄░░░░░░░░░░░
  ░░░░░░░░░░▄▀▀▀░░░░░░░░▀▄░░░░░░░░
@@ -78,7 +79,7 @@ This project is open-source and available under the MIT License.
  ░░░░░▐▌▀▄░░░░░░░░░░░░░░░░░▐▌░░░░
  ░░░░░░█░░▀░░░░░░░░░░░░░░░░▀░░░░░
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
- 
+](https://github.com/bluekitsune-sad) 
 
 </details>
 
