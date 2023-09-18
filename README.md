@@ -1,4 +1,3 @@
-dddddddddddddddd
 # C for Calculator
 
 C for Calculator is a simple web-based calculator application built with React, designed with a user-friendly interface similar to the iPhone X calculator.
