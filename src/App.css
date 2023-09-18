@@ -1,0 +1,57 @@
+.app {
+  display: grid;
+  place-items: center;
+  background-color: #767770;
+  /* background-color: #000; */
+}
+
+.title {
+  align-items: center;
+  color: #fff;
+}
+
+.app-body {
+  position: relative;
+  display: flex;
+  background-color: #000;
+  margin: 0px 50px 50px 50px;
+  height: 90vh;
+  width: 50vw;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.7);
+  border-radius: 1rem;
+  justify-content: center;
+  /* Center children horizontally */
+  align-items: center;
+  /* Center children vertically */
+}
+
+/* 
+.body-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  background: linear-gradient(90deg, #ff8038 0%, #ff0099 30.43%, #00beeb 68.23%, #db00ff 100%);
+  background-size: 600% 600%;
+  border-radius: 50%;
+  animation: anim 4s ease infinite;
+  z-index: -1;
+  transform: translate(-2px, -2px);
+  transition: filter 0.4s ease;
+}
+
+
+@keyframes anim {
+  0% {
+    background-position: 0%;
+  }
+
+  50% {
+    background-position: 100%;
+  }
+
+  100% {
+    background-position: 100%;
+  }
+} */
