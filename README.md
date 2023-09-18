@@ -10,7 +10,7 @@ C for Calculator is a sleek web-based calculator application built with React, d
 - 💯 Percentage (%) calculation for quick math.
 - 🔄 Clear (AC) to start fresh, ⏪ Plus/Minus (+/-) for sign flipping, and 🔵 decimal point (.) for precision.
 - 🌐 Responsive design to fit any screen size.
-- 🌈 Stylish gradient buttons for a vibrant touch.
+- ✨ Stylish gradient buttons for a vibrant touch.
 - ⚠️ Error handling for division by zero.
 
 ## 🚀 Technologies Used
@@ -28,7 +28,7 @@ C for Calculator is a sleek web-based calculator application built with React, d
    ```bash
    npm install
 
-###Start the development server:
+### Start the development server:
 
     bash
     npm start
@@ -42,6 +42,12 @@ C for Calculator is a sleek web-based calculator application built with React, d
     Use +/- to toggle between positive and negative numbers.
     Use % to calculate percentages.
     Use the = button to see the result.
+
+## 😂 Jokes Corner
+
+    Why did the mathematician break up with the calculator? Because they couldn't count on each other!
+    How do you make seven an even number? Remove the 's'!
+    Why did the calculator go to therapy? It had too many problems.
 
 ## 🌟 Credits
 
