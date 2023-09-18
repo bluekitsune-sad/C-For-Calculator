@@ -1,4 +1,5 @@
-<p>──────▄▀▄──────▄▀▄
+<p>
+   ──────▄▀▄──────▄▀▄
    ─────▄█░░░▀▀▀▀▀░░░█▄
    ─▄▄──█░░░░░░░░░░░░░█──▄▄
    █▄▄█─█░░▀░░░┬░░░▀░░█─█▄▄█
@@ -57,7 +58,7 @@ C for Calculator is a sleek web-based calculator application built with React, d
 ## 🌟 Credits
 
 This awesome project was created by bluekitsune-sad 🦊
-![](https://github.com/bluekitsune-sad) 
+![ᕕ( ᐛ )ᕗ](https://github.com/bluekitsune-sad) 
 
 ## 📝 License
 
