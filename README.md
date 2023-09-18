@@ -30,17 +30,17 @@ C for Calculator is a simple web-based calculator application built with React, 
 
 ## bash
 
-    npm start
+       npm start
 
-    Open your web browser and visit http://localhost:3000 to use the calculator.
+       Open your web browser and visit http://localhost:3000 to use the calculator.
 
 ## How to Use
 
-    Click the buttons to enter numbers and perform operations.
-    Use AC to clear the display.
-    Use +/- to toggle between positive and negative numbers.
-    Use % to calculate percentages.
-    Use the = button to see the result.
+       Click the buttons to enter numbers and perform operations.
+       Use AC to clear the display.
+       Use +/- to toggle between positive and negative numbers.
+       Use % to calculate percentages.
+       Use the = button to see the result.
 
 ## Credits
 
